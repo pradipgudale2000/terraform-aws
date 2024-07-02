@@ -1,3 +1,4 @@
+# Removed key from this file.
 provider "aws" {
   region = var.region
 }
